@@ -17,7 +17,7 @@ export function EntryGate() {
     <div className="flex min-h-screen flex-col items-center justify-center gap-6 bg-doom-black px-6 py-10">
       <div className="w-full max-w-sm">
         <h1 className="mb-1 text-center font-display text-3xl font-bold uppercase tracking-tight">
-          Xenogenesis Cup
+          Bierpong Elbe 2026
         </h1>
         <p className="mb-8 text-center text-sm text-doom-silver/50">
           {step === "role" ? "Wie möchtest du beitreten?" : "Wähle dein Team"}
